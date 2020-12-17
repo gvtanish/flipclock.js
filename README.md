@@ -1,5 +1,5 @@
-# flipclock.js
+#    flipclock.js
 This is an flipclock.js
 
-# credits
+#    credits
 online tutorials : https://youtu.be/-Q154mF-u1k
